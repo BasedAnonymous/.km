@@ -1,2 +1,2 @@
 # Soltani-Aslani
-ut priject
+ut project
